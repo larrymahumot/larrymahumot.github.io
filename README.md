@@ -2,11 +2,11 @@
 
 ## If you don't want to download an archive you can use GitHub Pages to render this.
 
-Fork the repository to your account.
-Clone it locally on your machine
-Create a `gh-pages` branch (if one already exists, remove it and create a new one based off `master`).
-Push the branch back to GitHub.
-View the pages at `http://username.github.io/repo`
+1. Fork the repository to your account.
+2. Clone it locally on your machine
+3. Create a `gh-pages` branch (if one already exists, remove it and create a new one based off `master`).
+4. Push the branch back to GitHub.
+5. View the pages at `http://username.github.io/repo`
 In code:
 
 ```
