@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Calibri', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-weight: 700;
   color: #778492;
 }
@@ -225,7 +225,7 @@ a.dotted-link:hover {
   overflow: hidden;
 }
 .latest .featured-image .ribbon .text {
-  font-family: 'Calibri', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   position: relative;
   left: -8px;
   top: 18px;
