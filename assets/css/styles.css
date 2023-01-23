@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', arial, sans-serif;
+  font-family: 'Garamond', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Garamond', sans-serif;
   font-weight: 700;
   color: #778492;
 }
