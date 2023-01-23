@@ -1,5 +1,5 @@
 body {
-  font-family: 'Garamond', arial, sans-serif;
+  font-family: 'Lato', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -92,20 +92,8 @@ a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
 }
-/*
-iframe {
 
-    .header {
-        padding: 0;
-    }
-}
 
-.iframe-wrapper {
-    overflow: auto;
-    -webkit-overflow-scrolling:touch;
-}
-*/
-/* ======= Header ======= */
 .header {
   padding: 30px 0;
   background: #f5f5f5;
@@ -425,28 +413,22 @@ iframe {
   color: #b0b7bf;
   font-weight: 500;
 }
-/* Certification section*/
-.title {
-  color: #778492;
-}
-.certificates .item {
-  margin-bottom: 30px;
-}
-.certificates .item:last-child {
+/* Certificates */
+.certifiactes .item:last-child {
   margin-bottom: 0;
 }
-.certificates .item .title {
+.certifiactes .item .title {
   font-size: 16px;
   margin-top: 0;
 }
-.certificates .item .university {
+.certifiactes .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
   color: #999;
   font-weight: 600;
   padding-left: 25px;
 }
-.certificates .item .university .year {
+.certifiactes .item .university .year {
   color: #b0b7bf;
   font-weight: 500;
 }
