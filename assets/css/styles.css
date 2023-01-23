@@ -1,5 +1,5 @@
 body {
-  font-family: 'Garamond', arial, sans-serif;
+  font-family: 'Calibri', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Garamond', sans-serif;
+  font-family: 'Calibri', sans-serif;
   font-weight: 700;
   color: #778492;
 }
