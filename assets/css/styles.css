@@ -37,7 +37,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  font-family: 'Montserrat', arial, sans-serif;
+  font-family: 'Calibri', arial, sans-serif;
   padding: 8px 16px;
   font-weight: bold;
 }
@@ -225,7 +225,7 @@ a.dotted-link:hover {
   overflow: hidden;
 }
 .latest .featured-image .ribbon .text {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Calibri', sans-serif;
   position: relative;
   left: -8px;
   top: 18px;
